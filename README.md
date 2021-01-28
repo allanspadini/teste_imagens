@@ -5,5 +5,4 @@ testando
 ![blla](crystal.jpg)
 
 
-
-![blla](file.html)
+%%file.html
