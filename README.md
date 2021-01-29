@@ -5,4 +5,4 @@ testando
 ![blla](crystal.jpg)
 
 
-{% include file.html %}
+{% include_relative file.html %}
