@@ -5,4 +5,4 @@ testando
 ![blla](crystal.jpg)
 
 
-%%file.html
+{% file.html %}
